@@ -1,0 +1,215 @@
+body{
+    margin: 0px;
+
+    margin: auto;
+    background-color: rgb(219, 221, 223);
+}
+
+#uploads{
+    background-color: rgb(160, 153, 153);
+    font-size: medium;
+}
+#section{
+    background-color: rgb(212, 210, 208);
+
+}
+.funnyvideos h1{
+    width: 10%;
+    margin: 0;
+}
+.funnyvideos p{
+margin-left: 10px;
+margin-right: 3px;
+}
+.prankvideos
+{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-left: 10px;
+    margin-right: 3px;
+}
+.prankvideos h1{
+padding-top: 0%;
+padding-bottom: 0%;
+}
+
+
+header{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+}
+#head1
+{
+    height: 60px;
+    background-color:white;
+    color: black;
+    display: flex;
+    flex-direction: row;
+}
+#head2
+{
+    font-family: 'ZCOOL KuaiLe', cursive;
+    text-align: center;
+    width:100%;
+    height: 130px;
+    background-color:rgb(15, 79, 100);
+    color: white;
+    
+}                                      
+
+#head3            
+{
+    text-align: center;
+    width:100%;
+    height: 150px;
+    background-color:white;
+    color: black;
+    background-color: rgb(232, 241, 197);
+    
+    
+}
+.menu ul{
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.menu ul li{
+    width: 20%; 
+    float: left;
+    list-style: none;
+    padding-top: 10px;
+    color: antiquewhite;
+    font-family: monospace;
+    font-size: 20px;
+    
+}
+
+.menu ul li a{
+    color: black;
+    text-decoration: none;
+    /*transition:0.3s all;*/
+}
+.menu ul li a:hover
+{
+
+    color:rgb(235, 47, 47);
+}
+#form
+{
+  margin-top: 11px ;
+  margin-left: 20% ;
+}
+
+.neonbutton
+{
+    position: relative;
+    top: 4px;
+    text-align: center;
+    width: 75px;
+    padding: 2px;
+    font-size: 10px;     
+    color: black;
+    font-family: poppins;
+    font-weight: 300;
+    
+    border: 5px solid #15f4ee;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border-radius: 100px;
+    transition: 1.5s;
+}
+.neonbutton:hover
+{
+    box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
+                0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+    text-shadow: 0 0 5px #15f4ee,0 0 5px #15f4ee;            
+}
+.lefticon
+{
+    margin-left: 25px;
+}
+.iconname
+{
+    margin-left: 15px;
+}
+#signin
+{
+    padding: 8px 20px;
+    border-radius: 18px;
+    font-size: 15px;
+    color:black;
+    background-color:whitesmoke;
+    margin-left: 160px;
+    float: right;
+}
+#aside{
+    width:120px;
+    height: 150vh;
+    background-color:white;
+    float: left;
+}
+.one
+{
+    background-color: cyan;
+    color: black;
+}
+#icon
+{
+    display: inline;
+    float: right;
+    padding: 10px 20px;
+    margin-right: 10px;
+    background-color: rgba(211, 209, 209, 0.3);
+    margin-top: 30px;
+}
+ .heading2
+ {
+    font-size: 40px;
+    margin-left: 5%;
+    padding-top: 3%;
+    padding-left: 5%;
+    background-color: #fff;
+}
+ .para
+{
+    width: 50%;
+    font-size: 25px;
+    margin-left: 5%;
+    padding-left: 5%;
+    font-family: sans-serif;
+    padding-top: 3%;
+    text-align: jusify;
+}
+.break
+{
+  color: blue;
+}
+
+.alink
+{
+    color: blue;
+    margin-left: 10%;
+}
+
+.ican p i
+{
+    margin-left: 10px;
+    padding-top: 1%;
+
+}
+div1 p
+{
+    text-align: right;
+    padding-top:10%;
+    margin-right: 10%;
+    float: right;
+}
+
+.card 
+{
+    width:50%;
+    
+}

@@ -1,0 +1,14 @@
+.container
+{
+    width: 700px;
+    background-color: black;
+    
+}
+.container h5,p{
+    margin-left: 10%;
+    color: white;
+}
+.container img
+{
+ margin-left: 10%;
+}
